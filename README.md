@@ -27,7 +27,7 @@ You have finally discovered my Github profile. <br>
 
 :blue_heart: Programming  |  :heart: Video Editing | :black_heart: Gaming
 
-- :🇮🇳 I'm from Delhi, India
+- 🇮🇳 I'm from Delhi, India
 - :computer:  I like trying out new stuff from creating AR filters to training YOLO models :)) 
 - :video_game: I love playing competititve games
 
