@@ -29,7 +29,7 @@ You have finally discovered my Github profile. <br>
 
 - :earth_americas: I'm from Delhi, India
 - :computer:  I like trying out new stuff from creating AR filters to training YOLO models :)) 
-- :video_game: I love playing competititve games
+- :video_game: I love playing competitive games
 
 
 ## Social media :mailbox_with_no_mail:
