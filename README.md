@@ -12,8 +12,7 @@
 
 :blue_heart: Security research  |  :heart: Gaming | :black_heart: Video Editing
 
-- :computer:  My research interests lie broadly in computer security and privacy, especially web security and fingerprinting.
-- :computer: Outside research, I am also interested in application security (appsec) - penetration testing, full stack web development and cross-platform mobile app development.
+:computer:  My research interests focus mainly on Web and mobile security, privacy and Internet measurement.
 
 
 ## Social media :mailbox_with_no_mail:
